@@ -1,0 +1,6 @@
+﻿  12-2-SudonoTanjung.cpp
+c:\users\toshiba\downloads\compressed\10. module 10 - week 12\10. module 10 - week 12\code\12-2-sudonotanjung.cpp(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toshiba\downloads\compressed\10. module 10 - week 12\10. module 10 - week 12\code\12-2-sudonotanjung.cpp(40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\toshiba\downloads\compressed\10. module 10 - week 12\10. module 10 - week 12\code\12-2-sudonotanjung.cpp(44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Opengl.vcxproj -> D:\Project\Opengl\Debug\Opengl.exe
+  Opengl.vcxproj -> D:\Project\Opengl\Debug\Opengl.pdb (Partial PDB)
