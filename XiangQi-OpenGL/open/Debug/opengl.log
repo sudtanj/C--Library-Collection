@@ -1,0 +1,43 @@
+﻿  main.cpp
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(118): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(129): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(130): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(149): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(154): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(155): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(167): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(167): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(176): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(177): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(178): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(178): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(187): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(188): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(189): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(189): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(198): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(199): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(200): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(200): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(209): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(210): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(211): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(211): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(230): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(231): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(243): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(243): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(263): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(270): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(337): warning C4305: '=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(344): warning C4305: '=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(352): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(354): warning C4305: '-=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(356): warning C4305: '+=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(358): warning C4305: '-=': truncation from 'double' to 'float'
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(364): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(365): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\user\my documents\visual studio 2015\projects\opengl\opengl\main.cpp(374): warning C4305: '=': truncation from 'double' to 'float'
+  opengl.vcxproj -> d:\User\My Documents\Visual Studio 2015\Projects\opengl\Debug\opengl.exe
+  opengl.vcxproj -> d:\User\My Documents\Visual Studio 2015\Projects\opengl\Debug\opengl.pdb (Partial PDB)
